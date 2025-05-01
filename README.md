@@ -7,4 +7,8 @@
 AIがアナタにぴったりのゲームをおすすめします！
 
 ## 実行
-Releasesから```game_recommender.exe```をダウンロードして実行してください
+Releasesから```game_recommender.exe```をダウンロードして実行してください  
+(WindowsによってPCが保護されました と出ると思いますが...🧬)
+
+---
+よくあるジョークプログラムです
