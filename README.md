@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/-Python-20232A?logo=python">
 
 </p>
-AIがアナタにぴったりのゲームをおすすめします！
+5つの質問に答えるだけで、AIがアナタにぴったりのゲームをおすすめします！
 
 ## 実行
 Releasesから```game_recommender.exe```をダウンロードして実行してください  
